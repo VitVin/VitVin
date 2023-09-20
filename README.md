@@ -4,13 +4,11 @@ I am Front End Developer
 
 
 <b>My GitHub Stats</b>
-
-<div >
   
 ![](https://github-readme-stats.vercel.app/api?username=VitVin&show_icons=true&hide=stars,issues,&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=00000000&hide_border=true&show_icons=true&rank_icon=github)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VitVin&stroke=0891b2&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=0891b2&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true)
 
-</div>
 
 <b>My CodeWars Stats</b>
 
