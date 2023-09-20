@@ -27,7 +27,7 @@ I am Front End Developer
 
 * 🖥️  See my portfolio at [MMOTODAY](http://vitvin.github.io/MMOTODAY)
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=VitVin&repo=MMOToday&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=VitVin&repo=MMOToday&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/VitVin/MMOToday)
 
 
 ### Socials
