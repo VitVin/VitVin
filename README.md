@@ -22,14 +22,6 @@ I am Front End Developer
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VitVin&langs_count=3&hide=java&layout=donut-vertical&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=00000000&hide_border=true&locale=en&custom_title=Top%20%Languages)
 
 
-  
-<b>Top Repositories</b>
-
-* 🖥️  See my portfolio at [MMOTODAY](http://vitvin.github.io/MMOTODAY)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=VitVin&repo=MMOToday&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/VitVin/MMOToday)
-
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/VitVin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
