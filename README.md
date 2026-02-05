@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Vitaliy 👋</h1>
 
-<p align="center">Front-end Developer | React / Vue / Node.js | 3D & Animations</p>
+<p align="center">Front-end Developer | React / Three.js | 3D & Animations</p>
 
 ---
 
